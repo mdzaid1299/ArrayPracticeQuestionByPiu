@@ -16,7 +16,7 @@ public class Sum {
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
-        System.out.println(sum);
+        System.out.println("Sum "+ sum);
         int max = array[0];
         int min = array[0];
         for (int i = 1; i < array.length; i++) {
